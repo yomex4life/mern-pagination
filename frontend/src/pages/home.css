@@ -1,0 +1,10 @@
+.home{
+    max-width: 1400px;
+    margin: 5rem auto;
+}
+
+.home-post{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
